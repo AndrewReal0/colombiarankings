@@ -1,0 +1,287 @@
+# Translation of Themes - DocPress in Spanish (Spain)
+# This file is distributed under the same license as the Themes - DocPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:57:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - DocPress\n"
+
+#. Description of the plugin/theme
+msgid "DocPress is a responsive WordPress theme for documentation sites. If you want a documentation website for your product then this is the best pick, and it also has a search bar on the top section which makes it easier to use search for the content. Apart from that, it's built on Bootstrap!"
+msgstr "DocPress es un tema adaptable para sitios de documentación. Si quieres una web de documentación para tu producto entonces es la mejor elección, y también tiene una barra de búsqueda en la parte superior que facilita buscar dentro del contenido. Además de todo eso ¡está creado con Bootstrap!"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Portada"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Template"
+msgstr "Plantilla de ancho completo"
+
+#: template-home.php:20
+msgid "Browse"
+msgstr "Navegar"
+
+#: inc/customizer.php:66
+msgid "Footer Credits"
+msgstr "Créditos del pié"
+
+#: inc/customizer.php:32
+msgid "To edit footer credits, you need to purchase the $5 <a href=\"http://bit.ly/buydocpress\" target=\"_blank\">Footer Credits Extension</a>."
+msgstr "Para modificar los créditos tendrás que pagar $5 por la <a href=\"http://bit.ly/buydocpress\" target=\"_blank\">Extensión de créditos del pié</a>."
+
+#: inc/customizer.php:23
+msgid "If you like this theme and if it helped you with your business then please consider supporting the development %1$sby donating some money%2$s."
+msgstr "Si te gusta este tema y te ayudó en tu negocio por favor piénsate apoyar su desarrollo %1$s donando algo de dinero%2$s."
+
+#: inc/admin/welcome-screen/welcome-screen.php:24
+msgid "Get started with DocPress"
+msgstr "Primeros pasos con DocPress"
+
+#: inc/admin/welcome-screen/welcome-screen.php:23
+msgid "Thanks for choosing DocPress! You can read hints and tips on how get the most out of your new theme on the %swelcome screen%s."
+msgstr "¡Gracias por elegir DocPress! Puedes leer trucos sobre cómo sacar el máximo partido de tu nuevo tema en la %spantalla de bienvenida%s."
+
+#: inc/admin/welcome-screen/content/content.php:56
+msgid "Donate"
+msgstr "Donar"
+
+#: inc/admin/welcome-screen/content/content.php:51
+msgid "Found an issue with the theme? You can get support <a href=\"https://wordpress.org/support/theme/docpress\" target=\"_blank\">at this link</a>. Or would you like to translate DocPress into your language? <a href=\"https://translate.wordpress.org/projects/wp-themes/docpress\" target=\"_blank\">Get involved</a>! Also, don't forget to <a href=\"https://wordpress.org/support/view/theme-reviews/docpress\" target=\"_blank\">leave a review</a>."
+msgstr "¿Has encontrado algún fallo en el tema? Puedes obtener soporte <a href=“https://wordpress.org/support/theme/docpress” target=“_blank”>en este enlace</a>. ¿O quieres traducir DocPress en tu idioma? ¡<a href=“https://translate.wordpress.org/projects/wp-themes/docpress” target=“_blank”>Involúcrate</a>! Además, no olvides <a href=“https://wordpress.org/support/view/theme-reviews/docpress” target=“_blank”>dejar una valoración</a>."
+
+#: inc/admin/welcome-screen/content/content.php:50
+msgid "Need support?"
+msgstr "¿Necesita ayuda?"
+
+#: inc/admin/welcome-screen/content/content.php:41
+msgid "Purchase ($5)"
+msgstr "Comprar ($5)"
+
+#: inc/admin/welcome-screen/content/content.php:39
+msgid "Get the Footer Credits Extension"
+msgstr "Consigue la extensión de créditos en el pié"
+
+#: inc/admin/welcome-screen/content/content.php:35
+msgid "Customize"
+msgstr "Personaliza"
+
+#: inc/admin/welcome-screen/content/content.php:34
+#: inc/admin/welcome-screen/content/content.php:40
+msgid "DocPress Footer Extension allows you to edit the footer credits of your DocPress theme straight from the Customizer, without touching a line of code."
+msgstr "La extensión para el pié de DocPress te permite modificar los créditos del pié de página de tu tema DocPress desde el personalizador, sin modificar ninguna línea de código."
+
+#: inc/admin/welcome-screen/content/content.php:33
+msgid "Activated"
+msgstr "Activado"
+
+#: inc/admin/welcome-screen/content/content.php:33
+msgid "Footer Credits Extension"
+msgstr "Extensión de créditos en el pié"
+
+#: inc/admin/welcome-screen/content/content.php:26
+msgid "<strong>Welcome Panel:</strong> This version adds a Welcome Panel to the theme which tells you everything that you need to know about the theme."
+msgstr "<strong>Panel de bienvenida:</strong> Esta versión añade un panel de bienvenida que te dice todo lo que tienes que saber acerca del tema."
+
+#: inc/admin/welcome-screen/content/content.php:25
+msgid "<strong>New Homepage:</strong> A new homepage which makes DocPress look truly like a documentation theme."
+msgstr "<strong>Nueva portada:</strong> Una nueva portada que hace que DocPress se vea como un tema de documentación."
+
+#: inc/admin/welcome-screen/content/content.php:23
+msgid "Take a look at everything that's new in the latest version:"
+msgstr "Echa un vistazo a todas las novedades de la última versión:"
+
+#: inc/admin/welcome-screen/content/content.php:22
+msgid "What's new in %s?"
+msgstr "¿Qué novedades hay en %s?"
+
+#: inc/admin/welcome-screen/content/content.php:13
+msgid "More Info"
+msgstr "Más información"
+
+#: inc/admin/welcome-screen/content/content.php:12
+msgid "Visit Customizer"
+msgstr "Vista el personalizador"
+
+#: functions.php:134
+msgid "Proudly powered by"
+msgstr "Creado con orgullo con "
+
+#: functions.php:170
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: functions.php:169
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, j \\d\\e F \\d\\e\\l Y, g:i a"
+
+#: functions.php:164
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de aprobar."
+
+#: functions.php:161
+msgid "<span>%s </span><span class=\"says\">says:</span>"
+msgstr "<span>%s </span><span class=“says”>dice:</span>"
+
+#: functions.php:149 functions.php:173
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions.php:149
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:106
+msgid "Footer Four"
+msgstr "Pié cuatro"
+
+#: functions.php:97
+msgid "Footer Three"
+msgstr "Pié tres"
+
+#: functions.php:88
+msgid "Footer Two"
+msgstr "Pié dos"
+
+#: functions.php:79
+msgid "Footer One"
+msgstr "Pié uno"
+
+#: comments.php:81
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:77
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:76
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:75
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:35 comments.php:58
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:34 comments.php:57
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr "Buscar :"
+
+#: inc/customizer.php:49
+msgid "Do You Like This Theme?"
+msgstr "¿Te gusta este tema?"
+
+#: inc/admin/welcome-screen/content/content.php:57
+msgid "If you like this theme and if it helped you with your business then please consider supporting the development <a target=\"_blank\" href=\"http://www.hardeepasrani.com/donate/\">by donating some money</a>. <a target=\"_blank\" href=\"http://www.hardeepasrani.com/donate/\">Any amount, even $1.00, is appreciated :)</a>"
+msgstr "Si te gusta este tema y te ayudó con tu negocio anímate a apoytar su desarrollo <a target=“_blank” href=“http://www.hardeepasrani.com/donate/“>donando algo de dinero</a>. <a target=“_blank” href=“http://www.hardeepasrani.com/donate/“>Se agradece cualquier cantidad, incluso $1.00 :)</a>"
+
+#: inc/customizer.php:97
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/customizer.php:109
+msgid "Disable Search Bar"
+msgstr "Desactivar barra de búsqueda"
+
+#: inc/customizer.php:84
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer.php:60 searchform.php:4 searchform.php:6
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/customizer.php:40
+msgid "This section allows you to customize theme's header."
+msgstr "Esta sección te permite personalizar la cabecera del tema."
+
+#: inc/customizer.php:54
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer.php:39
+msgid "Header"
+msgstr "Cabecera"
+
+#: header.php:41 inc/customizer.php:78
+msgid "Need Help? Try me!"
+msgstr "¿Necesitas ayuda? ¡Pruébame!"
+
+#: header.php:16
+msgid "Toggle navigation"
+msgstr "Alternar navegación"
+
+#: header.php:42 inc/customizer.php:91
+msgid "Your answer is just one search away!"
+msgstr "¡Tu respuesta está a una búsqueda!"
+
+#: functions.php:70
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#. #-#-#-#-#  docpress.pot (DocPress 2.2.2)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/welcome-screen/content/content.php:9
+msgid "DocPress"
+msgstr "DocPress"
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: content-none.php:6
+msgid "The page you were looking for doesn&rsquo;t exist. Sasquatch, on the other hand, just might."
+msgstr "La páginas que buscas no existe. Podría estar en otra parte."
+
+#: content-none.php:7
+msgid "But hey, you can always use our search form:"
+msgstr "Siempre puedes utilizar nuestro buscador:"
+
+#: content-page.php:10 content-single.php:10
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:3
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: comments.php:31 comments.php:54
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:24
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Una reflexión sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reflexiones sobre &ldquo;%2$s&rdquo;"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.hardeepasrani.com/portfolio/docpress/"
+msgstr "http://www.hardeepasrani.com/portfolio/docpress/"
+
+#. Author of the plugin/theme
+msgid "Hardeep Asrani"
+msgstr "Hardeep Asrani"
+
+#. Author URI of the plugin/theme
+msgid "http://www.hardeepasrani.com/"
+msgstr "http://www.hardeepasrani.com/"
